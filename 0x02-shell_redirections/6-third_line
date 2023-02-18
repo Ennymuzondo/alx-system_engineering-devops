@@ -1,0 +1,2 @@
+#!bin/bas
+haed -3 iacta | tail -1
